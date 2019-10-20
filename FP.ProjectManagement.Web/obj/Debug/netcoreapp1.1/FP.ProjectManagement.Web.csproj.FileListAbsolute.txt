@@ -1,0 +1,9 @@
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\bin\Debug\netcoreapp1.1\FP.ProjectManagement.Web.deps.json
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\bin\Debug\netcoreapp1.1\FP.ProjectManagement.Web.runtimeconfig.json
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\bin\Debug\netcoreapp1.1\FP.ProjectManagement.Web.runtimeconfig.dev.json
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\bin\Debug\netcoreapp1.1\FP.ProjectManagement.Web.dll
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\bin\Debug\netcoreapp1.1\FP.ProjectManagement.Web.pdb
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\obj\Debug\netcoreapp1.1\FP.ProjectManagement.Web.csprojResolveAssemblyReference.cache
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\obj\Debug\netcoreapp1.1\FP.ProjectManagement.Web.AssemblyInfo.cs
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\obj\Debug\netcoreapp1.1\FP.ProjectManagement.Web.dll
+D:\fanap-plus\FP.ProjectManagement\FP.ProjectManagement.Web\obj\Debug\netcoreapp1.1\FP.ProjectManagement.Web.pdb
